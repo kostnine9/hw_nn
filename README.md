@@ -10,9 +10,9 @@
 В процессе обучения модели был запущен TensorBoard для построения графиков, визуализирующих процесс обучения (график зависимости функции потерь от номера эпохи обучения и зависимость accuracy от номера эпохи обучения). Логи тензорборда представлены в файлах репозитория (для проверки). Кроме этого были реализованы обычные графики через библиотеку matplotlib, которые также характеризуют зависимость функции потерь и accuracy от количества эпох.
 
 Matplotlib graphics:
-![loss_and_accuracy](loss_and_accuracy.png)
+![loss_and_accuracy](images/loss_and_accuracy.png)
 
 TensorBoard graphics:
-![accuracy_train](Accuracy_train.png)
-![loss_train](Loss_train.png)
+![accuracy_train](images/Accuracy_train.png)
+![loss_train](images/Loss_train.png)
 
