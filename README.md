@@ -12,10 +12,10 @@
 1. Модель тестируется на 10% от тестового набора данных, значение accuracy и balanced accuracy - 0.9978
 2. Модель тестируется на полном тестовом наборе данных, значение accuracy и balanced accuracy - 0.9873
 3. Модель тестируется на 2% изображений от другого набора данных, значение accuracy и balanced accuracy - 0.9667
-Matplotlib graphics:
+   
+# Графики
 ![loss_and_accuracy](images/loss_and_accuracy.png)
 
-TensorBoard graphics:
 ![accuracy_train](images/Accuracy_train.png)
 ![loss_train](images/Loss_train.png)
 
