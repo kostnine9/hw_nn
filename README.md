@@ -16,3 +16,6 @@ TensorBoard graphics:
 ![accuracy_train](images/Accuracy_train.png)
 ![loss_train](images/Loss_train.png)
 
+# Таблица зависимости точности и функции потерь от количества эпох
+![loss_train](images/table_loss_accurcy.png)
+
